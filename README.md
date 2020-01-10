@@ -1,4 +1,5 @@
-#TarDict: RandomForestClassifier-based software predict Drug-Tartget interaction in human Based on drug simplified molecular-input line-entry system (SMILES)
+#TarDict
+RandomForestClassifier-based software predict Drug-Tartget interaction in human Based on drug simplified molecular-input line-entry system (SMILES)
 TarDict, a RandomForestClassifier based-software predict the target pathway based on SMILES of chemical. TarDict receives SMILES and returns a list of the possible similar drug, then export list to the user the target pathways that drug contribute in. Training data set of 20442 entry and testing reveal %95 accuracy.
 
 #How To Use
